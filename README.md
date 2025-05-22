@@ -1,75 +1,56 @@
 <h1 align="center">👋 Hi there, I'm Nirzara Ghure</h1>
-<h3 align="center">Aspiring Software Engineer | Final Year B.Tech IT Student</h3>
+<h3 align="center">🚀 Software Developer | 🎓 Final Year B.Tech IT Student</h3>
 
 <p align="center">
-  Passionate about building impactful software solutions through Web Development, Data Analysis & Machine Learning.
+  Passionate about building <strong>scalable, cloud-native, event-driven systems</strong> using <strong>Java, Spring Boot, Kafka, and Oracle Cloud (OCI)</strong>. I love working on backend systems that solve real-world problems.
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center" style="font-size: 18px;">
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white" />
-</span>
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white" />
-</span>
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" />
-</span>
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" />
-</span>
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black" />
-</span>
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" />
-</span>
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-</span>
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-</span>
-
-<span style="display:inline-block; margin: 10px; padding: 12px 20px; border-radius: 10px; background-color: #f0f0f0; box-shadow: 2px 2px 5px #ccc;">
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
-</span>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat" alt="GitHub Actions" />
 </p>
 
 ---
 
-### ✨ Highlights
+### ✨ Projects & Highlights
 
-- 🏆 **SpaceSprint Hackathon** — Developed a Fitness Tracker Website using HTML, CSS & JavaScript focusing on usability and features.  
-- 📊 **Vision4Data Hackathon** — Analyzed Google Play Store and Smartphone datasets to identify app trends; sponsored by BNP Paribas & Nasscom Foundation.  
-- 📄 **Research Paper** — Presented “Breathing Balance: Yogic Solution for Climate Change” at the International Conference on Climate Change 2025, Chandrapur.
+- 💸 **Payment Tracker Web App** — Spring Boot web application using REST APIs and Dockerized microservices to manage payments efficiently.
+- 📦 **Kafka-Based Order Service** — Built an event-driven microservice architecture using Apache Kafka & Docker Compose.
+- 🏃‍♀️ **Fitness Tracker Website (SpaceSprint Hackathon)** — Developed a responsive front-end using HTML, CSS, and JavaScript for tracking workouts.
+- 📊 **Vision4Data Hackathon** — Cleaned, analyzed, and visualized Play Store data using Power BI; presented market trends and insights.
+- 📄 **Research Publication** — Co-authored *“Breathing Balance: Yogic Solution for Climate Change”* at the **International Conference on Climate Change 2025**.
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nirzara-g-8872a4236" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/nirzara-g-8872a4236" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <a href="mailto:nirzaraghure5@gmail.com" target="_blank" style="margin: 0 15px; text-decoration: none;">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/nirzaraghure" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:nirzaraghure5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
 
