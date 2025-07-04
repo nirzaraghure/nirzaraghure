@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Nirzara Ghure</h1>
-<h3 align="center">🚀 Software Developer | 🎓 Final Year B.Tech IT Student</h3>
+<h3 align="center">🚀 Software Developer | 🎓 B.Tech IT Student</h3>
 
 <p align="center">
   Passionate about building <strong>scalable, cloud-native, event-driven systems</strong> using <strong>Java, Spring Boot, Kafka, and Oracle Cloud (OCI)</strong>. I love working on backend systems that solve real-world problems.
