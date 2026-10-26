@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Nirzara Ghure 👋
+# Hey, I'm Nirzara 👋
 
 ### 💻 Software Developer | Exploring Applied AI & Automation
 
