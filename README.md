@@ -6,7 +6,7 @@
 
 Interested in building practical software solutions and exploring how AI can solve real-world problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=nirzaraghure&style=flat-square&color=blue)
+
 
 </div>
 
@@ -62,7 +62,7 @@ Interested in building practical software solutions and exploring how AI can sol
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirzara-ghure-38072b440/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirzaraghure)
 
 ---
