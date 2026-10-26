@@ -1,54 +1,74 @@
-<h1 align="center">👋 Hi there, I'm Nirzara Ghure</h1>
-<h3 align="center">🚀 Software Developer | 🎓 B.Tech IT Student</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about building <strong>scalable, cloud-native, event-driven systems</strong>. I love working on backend systems that solve real-world problems.
-</p>
+# Hey, I'm Nirzara Ghure 👋
 
----
+### 💻 Software Developer | Exploring Applied AI & Automation
 
-### 🛠️ Tech Stack
+Interested in building practical software solutions and exploring how AI can solve real-world problems.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat" alt="GitHub Actions" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=nirzaraghure&style=flat-square&color=blue)
+
+</div>
 
 ---
 
-### ✨ Projects & Highlights
+### 👩‍💻 About Me
 
-- 💸 **Payment Tracker Web App** — Spring Boot web application using REST APIs and Dockerized microservices to manage payments efficiently.
-- 📦 **Kafka-Based Order Service** — Built an event-driven microservice architecture using Apache Kafka & Docker Compose.
-- 🏃‍♀️ **Fitness Tracker Website (SpaceSprint Hackathon)** — Developed a responsive front-end using HTML, CSS, and JavaScript for tracking workouts.
-- 📊 **Vision4Data Hackathon** — Cleaned, analyzed, and visualized Play Store data using Power BI; presented market trends and insights.
-- 📄 **Research Publication** — Co-authored *“Breathing Balance: Yogic Solution for Climate Change”* at the **International Conference on Climate Change 2025**.
+- 💻 Interested in software development, applied AI, and automation.
+- 🤖 Exploring LLM integrations, AI agents, and Model Context Protocol (MCP).
+- 🛠️ Enjoy working on full-stack applications, APIs, and developer tools.
+- 🌱 Continuously learning about backend engineering, AI application development, and cloud technologies.
+- 🎯 Focused on improving my skills through hands-on learning and problem-solving.
+
+### 🧰 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST_APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+**AI & Automation**
+
+![LLMs](https://img.shields.io/badge/LLM_Integration-6C47FF?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-5B5BD6?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-444444?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+**Cloud & Tools**
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### 🌱 Currently Learning
+
+- Building reliable LLM-powered applications
+- Exploring RAG, tool calling, and AI agent workflows
+- Improving software design, testing, and code quality
+- Learning more about cloud deployment and production AI systems
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nirzaraghure)
 
 ---
 
-### 📫 Connect with Me
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/nirzara-g-8872a4236" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/nirzaraghure" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:nirzaraghure5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+✨ *Learning, building, and improving every day.* ✨
 
+</div>
